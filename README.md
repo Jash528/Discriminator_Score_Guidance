@@ -19,6 +19,7 @@ can serve as a zero-shot guidance signal for DDPM sampling.
 |---|---|
 | `DSGtest.ipynb` | Unguided DDPM and DSG implementation |
 | `THMproof.ipnby` | Validation of theorem |
+| `GAN_final.ipynb` | Final DSG implementation |
 
 ## Team
 [J Ashmita] · [Zoya Bothra] · [Amithi.S] · [Srijan Chopra]
