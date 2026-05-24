@@ -17,9 +17,10 @@ can serve as a zero-shot guidance signal for DDPM sampling.
 
 | File | Description |
 |---|---|
-| `DSGtest.ipynb` | Unguided DDPM and DSG implementation |
-| `THMproof.ipnby` | Validation of theorem |
-| `GAN_final.ipynb` | Final DSG implementation |
+| [DSGtest.ipynb](DSGtest.ipynb) | Unguided DDPM and DSG implementation |
+| [THMproof.ipynb](THMproof.ipynb) | Validation of theorem |
+| [GAN_final.ipynb](GAN_final.ipynb) | Final DSG implementation |
+| [Project Website](https://discriminator-score-guidence.netlify.app/) | Link to the DSG project site |
 
 ## Team
 [J Ashmita] · [Zoya Bothra] · [Amithi.S] · [Srijan Chopra]
